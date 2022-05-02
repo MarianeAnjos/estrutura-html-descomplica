@@ -1,4 +1,16 @@
-a {
-  font-size:120px;
-  color: #0a66c2;
+.error{
+  color: red;
+  font-size:30px;
+}
+p{
+  font-size: 55px;
+}
+.align-left{
+  text-align:left;
+}
+.align-center{
+  text-align:center;
+}
+.align-right{
+  text-align: right;
 }
